@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.info-section {
+.content-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.info-section img {
+.content-section img {
     max-height: 200px;
 }
 
-.info-h2 {
+.content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
